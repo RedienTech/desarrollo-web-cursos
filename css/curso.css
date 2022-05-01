@@ -1,0 +1,109 @@
+.info-curso-detail {
+    background-color: #1c1d1f;
+    height: 200px;
+    color: #fff;
+    padding: 20px 20px;
+}
+
+.description-curso{
+    width: 50%;
+    margin-top: 5px;
+}
+
+.aditional-info-curso {
+    width: 50%;
+    margin-top: 5px;
+    font-size: 0.75rem;
+}
+
+.info-pensum-curso {
+    border: 1px solid #eee;
+    padding: 20px;
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.info-requisitos {
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.curso-left {
+    width: 70%;
+}
+
+.curso-price-card {
+    width: 30%;
+}
+
+.lista-que-aprenderas {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.info-curso-description {
+    display: flex;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li::before {
+    content: "✓  ";
+}
+
+.pensum-elemento {
+    width: 50%;
+    margin-top: 10px;
+}
+
+.card-price {
+    border: 1px solid #eee;
+    padding: 20px;
+    background-color: #fff;
+    height: 90%;
+    text-align: center;
+    width: 70%;
+    margin-top: -80px;
+}
+
+.btn-solicitud {
+    display: block;
+}
+
+.curso-price-card {
+    height: 60vh;
+    text-align: center;
+}
+
+.formulario-info-curso {
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text-field {
+    border: 1px solid #eee;
+    padding: 10px;
+    margin-top: 10px;
+    width: 300px;
+}
+
+textarea {
+    border: 1px solid #eee;
+    padding: 10px;
+    margin-top: 10px;
+    width: 300px;
+    height: 100px;
+}
+
+.formulario-info-curso {
+    padding: 20px 20 px;
+    margin-bottom: 30px;
+}
